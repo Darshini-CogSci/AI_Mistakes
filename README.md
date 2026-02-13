@@ -21,7 +21,7 @@ This repository explores the visual competence of ResNet-50 by analyzing systema
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/7bf936e4-4c9d-4de5-9771-d3cf5da5c583" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a02aa422-313f-431b-af74-341dafa4bdcc" width="300"></td>
   </tr>
 </table>
 </table>
@@ -32,7 +32,7 @@ This repository explores the visual competence of ResNet-50 by analyzing systema
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/1498a968-5b42-47b0-a69f-d174da869988" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/70d74f94-21c5-475f-aa7e-c282e90057fd" width="300"></td>
   </tr>
 </table>
 To use the code, you have to download the modified stimuli and helper file for16-class mapping from [Geirhos'repo](https://github.com/rgeirhos/texture-vs-shape.git) and add the directory.
