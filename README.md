@@ -6,12 +6,12 @@ This repository explores the visual competence of ResNet-50 by analyzing systema
 ##Visual examples
 <table>
   <tr>
-    <td><b>Original Stimulus</b></td>
-    <td><b>Grad-CAM Result (Texture Bias)</b></td>
+    <td><b>Original Stimulus (Edges)</b></td>
+    <td><b>Grad-CAM Result (fractured focus)</b></td>
   </tr>
   <tr>
-    <td><img src="./images/original.jpg" width="300"></td>
-    <td><img src="./images/heatmap.jpg" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/afe968fc-d88c-4132-aea8-de6aa0ddaaa8" width="300"></td>
+    <td><img src=["./images/heatmap.jpg"](https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4) width="300"></td>
   </tr>
 </table>
 To use the code, you have to download the modified stimuli and helper file for16-class mapping from [Geirhos'repo](https://github.com/rgeirhos/texture-vs-shape.git) and add the directory.
