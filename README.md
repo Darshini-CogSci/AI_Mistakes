@@ -43,5 +43,7 @@ To use the code, you have to download the modified stimuli and helper file for16
    git clone [[https://github.com/YOUR_USERNAME/ai-mistakes.git](https://github.com/Darshini-CogSci/AI_Mistakes.git)])
 ## References
 -Grad-CAM: Selvaraju, R. R., et al. "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization." (ICCV 2017).
+
 -Library: Jacob Gildenblat's pytorch-grad-cam library.
+
 -Dataset/Helper: Geirhos, R., et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." (ICLR 2019).
