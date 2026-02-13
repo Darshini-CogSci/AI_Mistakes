@@ -8,7 +8,7 @@ To use the code, you have to download the modified stimuli and helper file for16
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/YOUR_USERNAME/ai-mistakes.git](https://github.com/Darshini-CogSci/AI_Mistakes.git)]([https://github.com/YOUR_USERNAME/ai-mistakes.git](https://github.com/Darshini-CogSci/AI_Mistakes.git))
+   git clone [[https://github.com/YOUR_USERNAME/ai-mistakes.git](https://github.com/Darshini-CogSci/AI_Mistakes.git)])
 ## References
 -Grad-CAM: Selvaraju, R. R., et al. "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization." (ICCV 2017).
 -Library: Jacob Gildenblat's pytorch-grad-cam library.
