@@ -7,10 +7,31 @@ This repository explores the visual competence of ResNet-50 by analyzing systema
 <table>
   <tr>
     <td><b>Original Stimulus (Edges)</b></td>
-    <td><b>Grad-CAM Result (fractured focus)</b></td>
+    <td><b>Grad-CAM Result </b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/afe968fc-d88c-4132-aea8-de6aa0ddaaa8" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4" width="300"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><b>Original Stimulus (Filled-silhouette)</b></td>
+    <td><b>Grad-CAM Result (Same label, different focus)</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7bf936e4-4c9d-4de5-9771-d3cf5da5c583" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4" width="300"></td>
+  </tr>
+</table>
+</table>
+<table>
+  <tr>
+    <td><b>Original Stimulus (Style-preprocessed)</b></td>
+    <td><b>Grad-CAM Result (Texture bias focus)</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1498a968-5b42-47b0-a69f-d174da869988" width="300"></td>
     <td><img src="https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4" width="300"></td>
   </tr>
 </table>
