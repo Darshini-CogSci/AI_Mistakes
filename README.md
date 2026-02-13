@@ -1,7 +1,7 @@
 # AI_Mistakes
 A closer look at the diverse error patterns exhibited by computer vision models
 
-This repository explores the visual competence of ResNet-50 by analyzing systematic errors and decision-making patterns. Specifically, it uses **Grad-CAM** to visualize how models prioritize texture over shape when processing manipulated stimuli to see if there is any underlying similarity in the way machine vision and human vision works.The analysis and inferences done with this codeis available in [this link](https://www.overleaf.com/read/nbrvhfnpfwwj#fbc908)
+This repository explores the visual competence of ResNet-50 by analyzing systematic errors and decision-making patterns. Specifically, it uses **Grad-CAM** to visualize how models prioritize texture over shape when processing manipulated stimuli to see if there is any underlying similarity in the way machine vision and human vision works.The analysis and inferences done with this code is available in [this link](https://www.overleaf.com/read/nbrvhfnpfwwj#fbc908)
 
 ##Visual examples
 <table>
@@ -35,9 +35,9 @@ This repository explores the visual competence of ResNet-50 by analyzing systema
     <td><img src="https://github.com/user-attachments/assets/70d74f94-21c5-475f-aa7e-c282e90057fd" width="300"></td>
   </tr>
 </table>
-To use the code, you have to download the modified stimuli and helper file for16-class mapping from [Geirhos'repo](https://github.com/rgeirhos/texture-vs-shape.git) and add to this directory.
+To use the code, you would have to download the modified stimuli and helper file for 16-class mapping from [Geirhos et al. repo](https://github.com/rgeirhos/texture-vs-shape.git) and add to this directory.
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Darshini-CogSci/AI_Mistakes.git](https://github.com/Darshini-CogSci/AI_Mistakes.git)
