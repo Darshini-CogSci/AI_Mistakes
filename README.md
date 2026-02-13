@@ -1,7 +1,7 @@
 # AI_Mistakes
 A closer look at the diverse error patterns exhibited by computer vision models
 
-This repository explores the visual competence of ResNet-50 by analyzing systematic errors and decision-making patterns. Specifically, it uses **Grad-CAM** to visualize how models prioritize texture over shape when processing manipulated stimuli to see if there is any underlying similarity in the way machine vision and human vision works.The analysis and inferences done with this code is available in [this link](https://www.overleaf.com/read/nbrvhfnpfwwj#fbc908)
+This repository explores the visual competence of ResNet-50 by analyzing systematic errors and decision-making patterns. Specifically, it uses **Grad-CAM** to visualize how models prioritize texture over shape when processing manipulated stimuli to see if there is any underlying similarity in the way machine vision and human vision works.The analysis and inferences done with this code is available in [this link](https://www.overleaf.com/read/nbrvhfnpfwwj#fbc908).
 
 ##Visual examples
 <table>
